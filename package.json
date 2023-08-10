@@ -1,0 +1,29 @@
+{
+  "name": "fem-intro-sign-up-form",
+  "version": "1.0.0",
+  "description": "frontendmentor.io project challege",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lastiwan89/fem-intro-sign-up-form.git"
+  },
+  "keywords": [
+    "fem-sign-up-form"
+  ],
+  "author": "chill rains",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lastiwan89/fem-intro-sign-up-form/issues"
+  },
+  "homepage": "https://github.com/lastiwan89/fem-intro-sign-up-form#readme",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.64.2"
+  }
+}
